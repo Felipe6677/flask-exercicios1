@@ -5,7 +5,7 @@
     <title>Página html ex6.py</title>
 </head>
 <body>
-    <h1>Bem-vindo à página</h1>
-    <p>Este arquivo está dentro da pasta</p>
+    <h1>Bem-vindo à página html</h1>
+    <p>Este arquivo está dentro da pasta templates</p>
 </body>
 </html>
