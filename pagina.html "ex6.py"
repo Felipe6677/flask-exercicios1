@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Página html ex6.py</title>
+</head>
+<body>
+    <h1>Bem-vindo à página</h1>
+    <p>Este arquivo está dentro da pasta</p>
+</body>
+</html>
